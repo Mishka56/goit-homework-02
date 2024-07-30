@@ -46,6 +46,9 @@ button {
 	color: #404bbf;
 }
 
+address {
+	font-style: normal;
+}
 .contacts-link {
 	font-family: "Roboto", sans-serif;
 	font-weight: 400;
@@ -53,7 +56,6 @@ button {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
-	font-style: normal;
 }
 
 .contacts-link:hover,
@@ -106,6 +108,9 @@ button {
 	background-color: #ffffff;
 }
 
+.our-team-list {
+	background-color: #ffffff;
+}
 .our-team-title {
 	font-weight: 700;
 	font-size: 36px;
