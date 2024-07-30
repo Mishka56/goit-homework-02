@@ -41,7 +41,7 @@ button {
 }
 .menu-link:hover,
 .menu-link:focus {
-	color: #9747ff;
+	color: #404bbf;
 }
 
 .contacts-link {
@@ -51,6 +51,7 @@ button {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+	font-style: normal;
 }
 
 .contacts-link:hover,
@@ -110,11 +111,10 @@ button {
 	letter-spacing: 0.02em;
 	text-align: center;
 	color: #2e2f42;
+	text-transform: capitalize;
 }
 
-.our-team-img {
-	background-color: #fff;
-}
+
 .our-team-name {
 	font-weight: 500;
 	font-size: 20px;
@@ -138,6 +138,7 @@ button {
 	letter-spacing: 0.02em;
 	text-align: center;
 	color: #2e2f42;
+	text-transform: capitalize;
 }
 
 .name-app {
