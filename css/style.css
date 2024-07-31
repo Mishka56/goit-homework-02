@@ -105,7 +105,7 @@ address {
 	color: #434455;
 }
 .our-team {
-	background-color: #ffffff;
+	background-color: #f4f4fd;
 }
 
 .our-team-list {
@@ -120,7 +120,6 @@ address {
 	color: #2e2f42;
 	text-transform: capitalize;
 }
-
 
 .our-team-name {
 	font-weight: 500;
@@ -162,4 +161,16 @@ address {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+}
+
+.footer {
+	background-color: #2e2f42;
+}
+
+.footer-text {
+	color: #f4f4fd;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
 }
